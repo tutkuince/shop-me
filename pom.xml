@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>shop-me-common</module>
+        <module>shop-me-web-parent</module>
     </modules>
 
     <properties>
