@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/shop-me-common/pom.xml" />
         <option value="$PROJECT_DIR$/shop-me-web-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-me-web-parent/shop-me-backend/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
